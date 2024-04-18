@@ -1,0 +1,10 @@
+build/
+zenv/
+dist/
+*.spec
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+*.egg
+
